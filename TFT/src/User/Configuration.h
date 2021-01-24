@@ -276,7 +276,7 @@
  *
  * Options:  0: Disabled    1: Enabled
  */
-#define AUTO_SAVE_LOAD_BL_VALUE 1 // Default: 1
+#define AUTO_SAVE_LOAD_BL_VALUE 0 // Default: 1
 
 // PID autotune
 #define PID_CMD {"M303 U1 C8 E0", "M303 U1 C8 E1", "M303 U1 C8 E2", "M303 U1 C8 E3", "M303 U1 C8 E4", "M303 U1 C8 E5", "M303 U1 C8 E-1", ""};
